@@ -1,0 +1,25 @@
+Issues
+Trocar Hotend; OK
+Colocar rosca na tampa traseira do “Case” da impressora;
+EndScript não sendo executado
+Ajuste Fino da calibragem automatica
+
+
+
+Enhancements:
+Colocar sistema de iluminação LED;
+Função de “Custo por Impressão”, “Consumo do filamento”, e indicar quantidade disponível de filamento;
+Limpeza automatica do cabeçote;
+Redução do odor do plástico fundido;
+“Case” para o filamento;
+Painel de controle com LCD;
+Vedação da passagem superior do filamento no “Case” da impressora;
+Sistema de fechamento magnético para a porta do “Case” da impressora;
+Diminuir a distancia focal da lente, e adicionar mais cameras de monitoramento; 
+Solução de plataforma removível, ferromagnética com superfície de aderência por calor (PEI ou outra solução);
+“Dual Extruder” para material de suporte;
+Criar sistema de auto “standby/resume” no sistema de gerenciamento;
+Colocar sistema de refrigeração para top layers;
+Reposicionar endstop Z inferior para superior;
+Colocar wifi com antena para melhorar alcance; 
+“Case" com refrigeração para eletrônica;
